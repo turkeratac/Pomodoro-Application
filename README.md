@@ -3,6 +3,6 @@ Android Pomodoro Application Programmed in Java
 
 
 
-Pomodoro Tekniği, 25 dakikalık çalışma sürelerine bölünmüş zaman yönetimi yöntemidir. 
+The Pomodoro Technique is a time management method divided into 25-minute work intervals.
 
-Her Pomodoro'dan sonra 5 dakika kısa mola verilir.
+After each Pomodoro, a short 5-minute break is taken.
